@@ -1,0 +1,13 @@
+{
+  "name": "torchapp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "react-native-torch": "^1.3.0"
+  }
+}
